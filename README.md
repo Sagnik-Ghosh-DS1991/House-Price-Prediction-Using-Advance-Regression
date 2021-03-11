@@ -20,3 +20,7 @@ You are required to model the price of houses with the available independent var
 
 This POC contain below files:
 
+- data_dictionary.txt - Data Dictionary
+- train.csv - Data File
+- Housing_Price_Prediction_advance_regression.ipynb - iPython Notebook
+- Subjecttive_Question.pdf - Subjection question based on this POC
